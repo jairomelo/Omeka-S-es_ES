@@ -1888,110 +1888,110 @@ msgstr ""
 
 #: application/view/omeka/admin/resource-template/show-property-row.phtml:33
 msgid "Remove property"
-msgstr ""
+msgstr "Quitar propiedad"
 
 #: application/view/omeka/admin/resource-template/show.phtml:9
 msgid "Export"
-msgstr ""
+msgstr "Exportar"
 
 #: application/view/omeka/admin/resource-template/show.phtml:11
 msgid "Edit resource template"
-msgstr ""
+msgstr "Editar la plantilla del recurso"
 
 #: application/view/omeka/admin/resource-template/show.phtml:49
 #: application/view/omeka/admin/system-info/browse.phtml:17
 msgid "Yes"
-msgstr ""
+msgstr "Si"
 
 #: application/view/omeka/admin/resource-template/show.phtml:49
 #: application/view/omeka/admin/system-info/browse.phtml:17
 msgid "No"
-msgstr ""
+msgstr "No"
 
 #: application/view/omeka/admin/setting/browse.phtml:6
 msgid "Global settings"
-msgstr ""
+msgstr "Configuración general"
 
 #: application/view/omeka/admin/user/add.phtml:6
 msgid "New user"
-msgstr ""
+msgstr "Nuevo usuario"
 
 #: application/view/omeka/admin/user/add.phtml:6
 #: application/view/omeka/admin/user/browse.phtml:20
 #: application/view/omeka/admin/user/edit.phtml:13
 #: application/view/omeka/admin/user/show.phtml:6
 msgid "Users"
-msgstr ""
+msgstr "Usuarios"
 
 #: application/view/omeka/admin/user/browse.phtml:6
 #: application/view/omeka/admin/user/browse.phtml:37
 #: application/view/omeka/admin/user/show.phtml:16
 msgid "Email"
-msgstr ""
+msgstr "Correo electrónico"
 
 #: application/view/omeka/admin/user/browse.phtml:10
 #: application/view/omeka/admin/user/browse.phtml:38
 #: application/view/omeka/admin/user/show.phtml:28
 #: application/view/omeka/site-admin/index/users.phtml:29
 msgid "Role"
-msgstr ""
+msgstr "Rol"
 
 #: application/view/omeka/admin/user/browse.phtml:24
 msgid "Add new user"
-msgstr ""
+msgstr "Agregar nuevo usuario"
 
 #: application/view/omeka/admin/user/browse.phtml:91
 msgid "Omeka could not find any users."
-msgstr ""
+msgstr "Omeka no puede encontrar ningún usuario"
 
 #: application/view/omeka/admin/user/edit.phtml:5
 msgid "User information"
-msgstr ""
+msgstr "Información del usuario"
 
 #: application/view/omeka/admin/user/edit.phtml:6
 msgid "User settings"
-msgstr ""
+msgstr "Configuración del usuario"
 
 #: application/view/omeka/admin/user/edit.phtml:7
 msgid "Password"
-msgstr ""
+msgstr "Contraseña"
 
 #: application/view/omeka/admin/user/edit.phtml:8
 msgid "API keys"
-msgstr ""
+msgstr "API keys"
 
 #: application/view/omeka/admin/user/edit.phtml:32
 msgid "Keys"
-msgstr ""
+msgstr "Keys"
 
 #: application/view/omeka/admin/user/edit.phtml:55
 msgid "Add a new key"
-msgstr ""
+msgstr "Agregar una key nueva"
 
 #: application/view/omeka/admin/user/show.phtml:10
 msgid "Edit user"
-msgstr ""
+msgstr "Editar usuario"
 
 #: application/view/omeka/admin/user/show.phtml:22
 msgid "Display name"
-msgstr ""
+msgstr "Mostrar nombre"
 
 #: application/view/omeka/admin/vocabulary/browse.phtml:10
 #: application/view/omeka/admin/vocabulary/browse.phtml:43
 msgid "Prefix"
-msgstr ""
+msgstr "Prefijo"
 
 #: application/view/omeka/admin/vocabulary/browse.phtml:14
 #: application/view/omeka/admin/vocabulary/browse.phtml:44
 #: application/view/omeka/admin/vocabulary/classes.phtml:20
 msgid "Classes"
-msgstr ""
+msgstr "Clases"
 
 #: application/view/omeka/admin/vocabulary/browse.phtml:18
 #: application/view/omeka/admin/vocabulary/browse.phtml:45
 #: application/view/omeka/admin/vocabulary/properties.phtml:6
 msgid "Properties"
-msgstr ""
+msgstr "Propiedades"
 
 #: application/view/omeka/admin/vocabulary/browse.phtml:24
 #: application/view/omeka/admin/vocabulary/classes.phtml:20
@@ -2000,87 +2000,87 @@ msgstr ""
 #: application/view/omeka/admin/vocabulary/properties.phtml:6
 #: application/view/omeka/admin/vocabulary/update.phtml:19
 msgid "Vocabularies"
-msgstr ""
+msgstr "Vocabularios"
 
 #: application/view/omeka/admin/vocabulary/browse.phtml:99
 msgid "Omeka could not find any vocabularies."
-msgstr ""
+msgstr "Omeka no puede encontrar ningún vocabulario."
 
 #: application/view/omeka/admin/vocabulary/classes.phtml:23
 #: application/view/omeka/admin/vocabulary/properties.phtml:9
 msgid "Prefix:"
-msgstr ""
+msgstr "Prefijo:"
 
 #: application/view/omeka/admin/vocabulary/classes.phtml:24
 #: application/view/omeka/admin/vocabulary/properties.phtml:10
 #: application/view/omeka/admin/vocabulary/show-details.phtml:4
 msgid "Namespace URI:"
-msgstr ""
+msgstr "URI del Namespace"
 
 #: application/view/omeka/admin/vocabulary/classes.phtml:75
 msgid "This vocabulary has no classes."
-msgstr ""
+msgstr "Este vocabulario no tiene clases"
 
 #: application/view/omeka/admin/vocabulary/import.phtml:6
 msgid "New vocabulary"
-msgstr ""
+msgstr "Nuevo vocabulario"
 
 #: application/view/omeka/admin/vocabulary/properties.phtml:59
 msgid "This vocabulary has no properties."
-msgstr ""
+msgstr "Este vocabulario no tiene propiedades"
 
 #: application/view/omeka/admin/vocabulary/update.phtml:19
 msgid "Update"
-msgstr ""
+msgstr "Actualizar"
 
 #: application/view/omeka/admin/vocabulary/update.phtml:22
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 #: application/view/omeka/admin/vocabulary/update.phtml:23
 msgid "Accept changes"
-msgstr ""
+msgstr "Aceptar cambios"
 
 #: application/view/omeka/index/index.phtml:18
 #, php-format
 msgid "Go to the %s to start working with %s."
-msgstr ""
+msgstr "Ir a las %s para empezar a trabajar con %s."
 
 #: application/view/omeka/install/index.phtml:7
 msgid "Install Omeka S"
-msgstr ""
+msgstr "Instalar Omeka S"
 
 #: application/view/omeka/install/index.phtml:10
 msgid "Some installation requirements were not satisfied."
-msgstr ""
+msgstr "Algunos requisitos de la instalación no fueron satisfechos."
 
 #: application/view/omeka/login/create-password.phtml:5
 msgid "Create a new password"
-msgstr ""
+msgstr "Crear una nueva contraseña"
 
 #: application/view/omeka/login/create-password.phtml:10
 msgid "Activate"
-msgstr ""
+msgstr "Activar"
 
 #: application/view/omeka/login/forgot-password.phtml:5
 msgid "Forgot password"
-msgstr ""
+msgstr "Contraseña olvidada"
 
 #: application/view/omeka/login/forgot-password.phtml:10
 msgid "Send password reset email"
-msgstr ""
+msgstr "Enviar correo de recuperación de contraseña"
 
 #: application/view/omeka/login/login.phtml:4
 msgid "Login"
-msgstr ""
+msgstr "Ingresar"
 
 #: application/view/omeka/login/login.phtml:6
 msgid "Forgot password?"
-msgstr ""
+msgstr "¿Contraseña olvidada?"
 
 #: application/view/omeka/maintenance/index.phtml:1
 msgid "Site under maintenance"
-msgstr ""
+msgstr "Sitio en mantenimiento"
 
 #: application/view/omeka/maintenance/index.phtml:2
 msgid ""
@@ -2573,187 +2573,189 @@ msgstr ""
 #: application/src/Form/UserForm.php:127
 #: application/src/Form/SettingForm.php:201
 msgid "Locale"
-msgstr ""
+msgstr "Localización"
 
 #: application/src/Form/SiteSettingsForm.php:106
 msgid ""
 "Locale/language code for this site. Leave blank to use the global locale "
 "setting."
-msgstr ""
+msgstr "Código de lenguaje / localización para este sitio. Deje en blanco para usar la configuración global "
+"predeterminada."
 
 #: application/src/Form/ActivateForm.php:25
 #: application/src/Form/InstallationForm.php:74
 msgid "Confirm password"
-msgstr ""
+msgstr "Confirmar contraseña"
 
 #: application/src/Form/ModuleStateChangeForm.php:37
 msgid "Install"
-msgstr ""
+msgstr "Instalar"
 
 #: application/src/Form/ModuleStateChangeForm.php:55
 msgid "Deactivate"
-msgstr ""
+msgstr "Desactivar"
 
 #: application/src/Form/ModuleStateChangeForm.php:64
 msgid "Upgrade"
-msgstr ""
+msgstr "Actualizar"
 
 #: application/src/Form/InstallationForm.php:19
 msgid "Create the first user"
-msgstr ""
+msgstr "Crea el primer usuario"
 
 #: application/src/Form/InstallationForm.php:52
 msgid "Confirm email"
-msgstr ""
+msgstr "Confirmar la dirección de correo electrónico"
 
 #: application/src/Form/InstallationForm.php:96
 #: application/src/Form/SettingForm.php:126
 msgid "Installation title"
-msgstr ""
+msgstr "Título de la instalación"
 
 #: application/src/Form/InstallationForm.php:114
 #: application/src/Form/SettingForm.php:141
 msgid "Time zone"
-msgstr ""
+msgstr "Zona horaria"
 
 #: application/src/Form/InstallationForm.php:153
 msgid "The passwords did not match"
-msgstr ""
+msgstr "Las contraseñas no coinciden"
 
 #: application/src/Form/InstallationForm.php:166
 msgid "The emails did not match"
-msgstr ""
+msgstr "Las direcciones de correo no coinciden"
 
 #: application/src/Form/ConfirmForm.php:17
 msgid "Confirm"
-msgstr ""
+msgstr "Confirmar"
 
 #: application/src/Form/UserForm.php:111
 msgid "Is active"
-msgstr ""
+msgstr "Es activo"
 
 #: application/src/Form/UserForm.php:128
 #: application/src/Form/SettingForm.php:202
 msgid "Global locale/language code for all interfaces."
-msgstr ""
+msgstr "Código de lenguaje / localización global para todas las interfaces."
 
 #: application/src/Form/UserForm.php:144
 msgid "Default resource template"
-msgstr ""
+msgstr "Plantilla de recursos predeterminada"
 
 #: application/src/Form/UserForm.php:162
 msgid "Current password"
-msgstr ""
+msgstr "Contraseña actual"
 
 #: application/src/Form/UserForm.php:170
 msgid "New password"
-msgstr ""
+msgstr "Nueva contraseña"
 
 #: application/src/Form/UserForm.php:180
 msgid "Confirm new password"
-msgstr ""
+msgstr "Confirmar la nueva contraseña"
 
 #: application/src/Form/UserForm.php:193
 msgid "New key label"
-msgstr ""
+msgstr "Nueva etiqueta clave"
 
 #: application/src/Form/UserForm.php:238
 msgid "Password confirmation must match new password"
-msgstr ""
+msgstr "La confirmación de la contraseña debe coincidir con la nueva contraseña"
 
 #: application/src/Form/SettingForm.php:105
 msgid "General"
-msgstr ""
+msgstr "General"
 
 #: application/src/Form/SettingForm.php:114
 msgid "Administrator email"
-msgstr ""
+msgstr "Correo del administrador"
 
 #: application/src/Form/SettingForm.php:155
 msgid "Results per page"
-msgstr ""
+msgstr "Resultados por página"
 
 #: application/src/Form/SettingForm.php:156
 msgid "The maximum number of results per page on browse pages."
-msgstr ""
+msgstr "El número máximo de resultados por página en las páginas de navegación."
 
 #: application/src/Form/SettingForm.php:168
 msgid "Property label information"
-msgstr ""
+msgstr "Información de la etiqueta de la propiedad"
 
 #: application/src/Form/SettingForm.php:169
 msgid "The additional information that accompanies labels on resource pages."
-msgstr ""
+msgstr "La información adicional que acompaña las etiquetas en las páginas de recursos."
 
 #: application/src/Form/SettingForm.php:171
 msgid "None"
-msgstr ""
+msgstr "Ninguna"
 
 #: application/src/Form/SettingForm.php:172
 msgid "Show Vocabulary"
-msgstr ""
+msgstr "Mostrar vocabulario"
 
 #: application/src/Form/SettingForm.php:173
 msgid "Show Term"
-msgstr ""
+msgstr "Mostrar término"
 
 #: application/src/Form/SettingForm.php:185
 msgid "Default site"
-msgstr ""
+msgstr "Sitio predeterminado"
 
 #: application/src/Form/SettingForm.php:186
 msgid ""
 "Select which site should appear when users go to the front page of the "
 "installation."
-msgstr ""
+msgstr "Selecciona cuál sitio debe mostrarse cuando los usuarios lleguen a la página inicial de la "
+"instalación."
 
 #: application/src/Form/SettingForm.php:191
 msgid "No default (show index of sites)"
-msgstr ""
+msgstr "Sin sitio predeterminado (mostrar un índice de sitios)"
 
 #: application/src/Form/SettingForm.php:216
 msgid "Security"
-msgstr ""
+msgstr "Securidad"
 
 #: application/src/Form/SettingForm.php:225
 msgid "Use HTMLPurifier"
-msgstr ""
+msgstr "Usar HTMLPurifier"
 
 #: application/src/Form/SettingForm.php:226
 msgid "Clean up user-entered HTML."
-msgstr ""
+msgstr "Limpiar el HTML ingresado por el usuario."
 
 #: application/src/Form/SettingForm.php:237
 msgid "Disable file validation"
-msgstr ""
+msgstr "Desactivar la validación de archivos"
 
 #: application/src/Form/SettingForm.php:238
 msgid "Check this to disable file media type and extension validation."
-msgstr ""
+msgstr "Marca esta opción para deshabilitar la validación de los tipos y extensión de archivo"
 
 #: application/src/Form/SettingForm.php:246
 msgid "Allowed media types"
-msgstr ""
+msgstr "Tipos de medios permitidos"
 
 #: application/src/Form/SettingForm.php:247
 msgid "A comma-separated list of allowed media types for file uploads."
-msgstr ""
+msgstr "Una lista separada por comas de los tipos de medios permitidos para la carga de archivos."
 
 #: application/src/Form/SettingForm.php:256
 msgid "Allowed file extensions"
-msgstr ""
+msgstr "Extensiones de archivo permitidas"
 
 #: application/src/Form/SettingForm.php:257
 msgid "A comma-separated list of allowed file extensions for file uploads."
-msgstr ""
+msgstr "Una lista separada por comas de las extensiones de archivo permitidas para la carga de archivos."
 
 #: application/src/Form/SettingForm.php:268
 msgid "reCAPTCHA site key"
-msgstr ""
+msgstr "Clave reCAPTCHA del sitio"
 
 #: application/src/Form/SettingForm.php:278
 msgid "reCAPTCHA secret key"
-msgstr ""
+msgstr "Clave secreta reCAPTCHA"
 
 #: application/src/Form/Element/ColorPicker.php:10
 msgid "three- or six-digit hexadecimal color, or \"transparent\""
@@ -2761,142 +2763,142 @@ msgstr ""
 
 #: application/src/Form/Element/ColorPicker.php:29
 msgid "Invalid color format"
-msgstr ""
+msgstr "formato de color no válido"
 
 #: application/src/Form/Element/Recaptcha.php:99
 msgid "You must verify that you are human by completing the CAPTCHA."
-msgstr ""
+msgstr "Debes verificar que eres humano llenando el CAPTCHA."
 
 #: application/src/Form/Element/Recaptcha.php:108
 msgid "Could not verify that you are a human."
-msgstr ""
+msgstr "No es posible verificar que eres humano."
 
 #: application/src/Controller/MigrateController.php:33
 msgid "Migration successful"
-msgstr ""
+msgstr "Migración exitosa"
 
 #: application/src/Controller/InstallController.php:52
 msgid "Installation successful. Please log in."
-msgstr ""
+msgstr "Instalación exitosa. Por favor ingrese."
 
 #: application/src/Controller/InstallController.php:56
 msgid "There were errors during installation."
-msgstr ""
+msgstr "Hubo errores durante la instalación"
 
 #: application/src/Controller/SiteAdmin/IndexController.php:66
 msgid "Site successfully created"
-msgstr ""
+msgstr "El sitio ha sido creado exitosamente"
 
 #: application/src/Controller/SiteAdmin/IndexController.php:92
 msgid "Site successfully updated"
-msgstr ""
+msgstr "El sitio ha sido actualizado exitosamente"
 
 #: application/src/Controller/SiteAdmin/IndexController.php:136
 #: application/src/Controller/Admin/SettingController.php:31
 msgid "Settings successfully updated"
-msgstr ""
+msgstr "La configuración ha sido actualizada exitosamente"
 
 #: application/src/Controller/SiteAdmin/IndexController.php:161
 msgid "Page successfully created"
-msgstr ""
+msgstr "Página creada exitosamente"
 
 #: application/src/Controller/SiteAdmin/IndexController.php:192
 msgid "Navigation successfully updated"
-msgstr ""
+msgstr "La navegación fue actualizada exitosamente"
 
 #: application/src/Controller/SiteAdmin/IndexController.php:225
 msgid "Site resources successfully updated"
-msgstr ""
+msgstr "Los recursos del sitio han sido actualizados exitosamente"
 
 #: application/src/Controller/SiteAdmin/IndexController.php:265
 msgid "User permissions successfully updated"
-msgstr ""
+msgstr "Permisos de usuario actualizados exitosamente"
 
 #: application/src/Controller/SiteAdmin/IndexController.php:297
 msgid "Site theme successfully updated"
-msgstr ""
+msgstr "Tema del sitio actualizada exitosamente"
 
 #: application/src/Controller/SiteAdmin/IndexController.php:348
 msgid "Theme settings successfully updated"
-msgstr ""
+msgstr "Configuración del tema actualizada exitosamente"
 
 #: application/src/Controller/SiteAdmin/IndexController.php:367
 msgid "Site successfully deleted"
-msgstr ""
+msgstr "Sitio borrado de manera exitosa"
 
 #: application/src/Controller/SiteAdmin/IndexController.php:390
 msgid "site"
-msgstr ""
+msgstr "sitio"
 
 #: application/src/Controller/SiteAdmin/PageController.php:28
 msgid "Page successfully updated"
-msgstr ""
+msgstr "Página actualizada exitosamente"
 
 #: application/src/Controller/SiteAdmin/PageController.php:81
 msgid "page"
-msgstr ""
+msgstr "página"
 
 #: application/src/Controller/SiteAdmin/PageController.php:98
 msgid "Page successfully deleted"
-msgstr ""
+msgstr "Página borrada exitosamente"
 
 #: application/src/Controller/LoginController.php:56
 msgid "Successfully logged in"
-msgstr ""
+msgstr "Ingreso exitoso"
 
 #: application/src/Controller/LoginController.php:63
 msgid "Email or password is invalid"
-msgstr ""
+msgstr "El correo electrónico o la contraseña son inválidos"
 
 #: application/src/Controller/LoginController.php:80
 msgid "Successfully logged out"
-msgstr ""
+msgstr "Desconexión exitosa"
 
 #: application/src/Controller/LoginController.php:96
 msgid "Invalid password creation key."
-msgstr ""
+msgstr "La clave para crear la contraseña no es válida."
 
 #: application/src/Controller/LoginController.php:105
 msgid "Password creation key expired."
-msgstr ""
+msgstr "La clave para crear la contraseña ha expirado."
 
 #: application/src/Controller/LoginController.php:121
 msgid "Successfully created your password. Please log in."
-msgstr ""
+msgstr "Contraseña creada exitosamente. Por favor, ingrese."
 
 #: application/src/Controller/LoginController.php:124
 msgid "Password creation unsuccessful"
-msgstr ""
+msgstr "No fue posible crear la contraseña"
 
 #: application/src/Controller/LoginController.php:160
 msgid "Check your email for instructions on how to reset your password"
-msgstr ""
+msgstr "Revisa tu correo electrónico para saber cómo resetear la contraseña"
 
 #: application/src/Controller/LoginController.php:163
 msgid "Activation unsuccessful"
-msgstr ""
+msgstr "Activación no exitosa"
 
 #: application/src/Controller/Admin/ResourceTemplateController.php:335
 msgid "resource template"
-msgstr ""
+msgstr "plantilla del recurso"
 
 #: application/src/Controller/Admin/ResourceTemplateController.php:348
 msgid "Resource template successfully deleted"
-msgstr ""
+msgstr "La plantilla del recurso ha sido borrada exitosamente"
 
 #: application/src/Controller/Admin/ResourceTemplateController.php:350
 #: application/src/Controller/Admin/ResourceTemplateController.php:353
 msgid "Resource template could not be deleted"
-msgstr ""
+msgstr "La plantilla del recurso no puede borrarse"
 
 #: application/src/Controller/Admin/ResourceTemplateController.php:399
 msgid "Resource template successfully updated"
-msgstr ""
+msgstr "La plantilla del recurso ha sido actualizada con éxito"
 
 #: application/src/Controller/Admin/ResourceTemplateController.php:402
 #, php-format
 msgid "Resource template successfully created. %s"
-msgstr ""
+msgstr "La plantilla del recurso ha sido exitosamente creada. %s"
 
 #: application/src/Controller/Admin/UserController.php:50
 #, php-format
