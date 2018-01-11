@@ -755,11 +755,11 @@ msgstr ""
 #: application/view/common/pagination.phtml:25
 #, php-format
 msgid "%s–%s of %s"
-msgstr ""
+msgstr "%s-%s de %s"
 
 #: application/view/common/pagination.phtml:27
 msgid "0 results"
-msgstr ""
+msgstr "0 resultados"
 
 #: application/view/common/property-selector.phtml:9
 msgid "Click on a property to add it to the edit panel."
@@ -944,7 +944,7 @@ msgstr ""
 
 #: application/view/layout/layout.phtml:28
 msgid "Powered by Omeka S"
-msgstr ""
+msgstr "Desarrollado por Omeka S"
 
 #: application/view/omeka/admin/asset/sidebar-select.phtml:9
 msgid "Upload new asset"
@@ -983,12 +983,12 @@ msgstr ""
 #: application/view/omeka/admin/index/browse.phtml:3
 #: application/view/omeka/index/index.phtml:19
 msgid "Admin dashboard"
-msgstr ""
+msgstr "panel de administración"
 
 #: application/view/omeka/admin/index/browse.phtml:7
 #, php-format
 msgid "Welcome to the %s admin dashboard!"
-msgstr "Bienvenido al tablero de administración de %s"
+msgstr "Bienvenido al panel de administración de %s"
 
 #: application/view/omeka/admin/index/browse.phtml:10
 msgid "Manage resources"
@@ -2048,7 +2048,7 @@ msgstr "Aceptar cambios"
 #: application/view/omeka/index/index.phtml:18
 #, php-format
 msgid "Go to the %s to start working with %s."
-msgstr "Ir a las %s para empezar a trabajar con %s."
+msgstr "Ir al %s para empezar a trabajar con %s."
 
 #: application/view/omeka/install/index.phtml:7
 msgid "Install Omeka S"
