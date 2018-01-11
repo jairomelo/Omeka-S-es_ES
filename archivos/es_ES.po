@@ -1007,31 +1007,31 @@ msgstr "Añadir un nuevo elemento"
 #: application/view/omeka/admin/index/browse.phtml:19
 #, php-format
 msgid "Item sets (%s)"
-msgstr ""
+msgstr "Colecciones (%s)"
 
 #: application/view/omeka/admin/index/browse.phtml:25
 #, php-format
 msgid "Vocabularies (%s)"
-msgstr ""
+msgstr "Vocabularios (%s)"
 
 #: application/view/omeka/admin/index/browse.phtml:27
 #: application/view/omeka/admin/vocabulary/browse.phtml:28
 msgid "Import new vocabulary"
-msgstr ""
+msgstr "Importar nuevo vocabulario"
 
 #: application/view/omeka/admin/index/browse.phtml:31
 #, php-format
 msgid "Resource templates (%s)"
-msgstr ""
+msgstr "Plantillas de recursos (%s)"
 
 #: application/view/omeka/admin/index/browse.phtml:33
 #: application/view/omeka/admin/resource-template/browse.phtml:29
 msgid "Add new resource template"
-msgstr ""
+msgstr "Añadir nueva plantilla de recursos"
 
 #: application/view/omeka/admin/index/browse.phtml:40
 msgid "Manage sites"
-msgstr ""
+msgstr "Administrar sitios"
 
 #: application/view/omeka/admin/index/browse.phtml:46
 #: application/view/omeka/admin/item-set/browse.phtml:102
@@ -1050,11 +1050,11 @@ msgstr ""
 #: application/view/omeka/site-admin/page/edit.phtml:10
 #: application/view/omeka/site-admin/page/index.phtml:34
 msgid "Edit"
-msgstr ""
+msgstr "Editar"
 
 #: application/view/omeka/admin/index/browse.phtml:51
 msgid "Add site"
-msgstr ""
+msgstr "Añadir sitio"
 
 #: application/view/omeka/admin/item-set/add.phtml:5
 msgid "New item set"
