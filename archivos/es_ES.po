@@ -2107,29 +2107,29 @@ msgstr ""
 
 #: application/view/omeka/site-admin/index/add-page.phtml:5
 msgid "New page"
-msgstr ""
+msgstr "Nueva página"
 
 #: application/view/omeka/site-admin/index/add-page.phtml:5
 #: application/view/omeka/site-admin/page/edit.phtml:10
 #: application/view/omeka/site-admin/page/index.phtml:6
 msgid "Pages"
-msgstr ""
+msgstr "Páginas"
 
 #: application/view/omeka/site-admin/index/add.phtml:7
 #: application/view/omeka/site-admin/index/show.phtml:31
 #: application/view/omeka/site-admin/index/theme-settings.phtml:5
 #: application/view/omeka/site-admin/index/theme.phtml:9
 msgid "Theme"
-msgstr ""
+msgstr "Tema"
 
 #: application/view/omeka/site-admin/index/add.phtml:8
 #: application/view/omeka/site-admin/index/resources.phtml:22
 msgid "Item pool"
-msgstr ""
+msgstr "Grupo de elementos"
 
 #: application/view/omeka/site-admin/index/add.phtml:12
 msgid "New site"
-msgstr ""
+msgstr "Nuevo sitio"
 
 #: application/view/omeka/site-admin/index/add.phtml:12
 #: application/view/omeka/site-admin/index/edit.phtml:6
@@ -2158,36 +2158,36 @@ msgstr ""
 
 #: application/view/omeka/site-admin/index/index.phtml:24
 msgid "Add new site"
-msgstr ""
+msgstr "Agregar un sitio nuevo"
 
 #: application/view/omeka/site-admin/index/index.phtml:105
 msgid "Omeka could not find any sites."
-msgstr ""
+msgstr "Omeka no encontró ningún sitio"
 
 #: application/view/omeka/site-admin/index/navigation.phtml:9
 msgid "Navigation"
-msgstr ""
+msgstr "Navegación"
 
 #: application/view/omeka/site-admin/index/navigation.phtml:24
 msgid "Add a custom link"
-msgstr ""
+msgstr "Agrega un enlace personalizado"
 
 #: application/view/omeka/site-admin/index/navigation.phtml:36
 msgid "Add a link to a site page"
-msgstr ""
+msgstr "Agrega un enlace a la página del sitio"
 
 #: application/view/omeka/site-admin/index/navigation.phtml:52
 msgid "There are no available pages."
-msgstr ""
+msgstr "No hay páginas disponibles"
 
 #: application/view/omeka/site-admin/index/resources.phtml:14
 msgid "Restore item set"
-msgstr ""
+msgstr "Restaurar la colección"
 
 #: application/view/omeka/site-admin/index/resources.phtml:35
 #, php-format
 msgid "There are currently %s items in this site’s pool."
-msgstr ""
+msgstr "%s elementos están disponibles en este grupo de elementos."
 
 #: application/view/omeka/site-admin/index/resources.phtml:67
 msgid "No item sets are assigned to this site."
@@ -2209,28 +2209,28 @@ msgstr ""
 
 #: application/view/omeka/site-admin/index/theme-selector.phtml:25
 msgid "Invalid theme.ini file"
-msgstr ""
+msgstr "El archivo theme.ini no es válido"
 
 #: application/view/omeka/site-admin/index/theme-selector.phtml:27
 #, php-format
 msgid "This theme requires Omeka S %s"
-msgstr ""
+msgstr "Este tema requiere Omkea S %s"
 
 #: application/view/omeka/site-admin/index/theme-settings.phtml:15
 msgid "The current theme has no configuration options."
-msgstr ""
+msgstr "El tema actual no tiene opciones de configuración"
 
 #: application/view/omeka/site-admin/index/theme.phtml:24
 msgid "Current theme"
-msgstr ""
+msgstr "Tema actual"
 
 #: application/view/omeka/site-admin/index/theme.phtml:40
 msgid "Edit theme settings"
-msgstr ""
+msgstr "Editar la configuración del tema"
 
 #: application/view/omeka/site-admin/index/theme.phtml:42
 msgid "Error: this theme is invalid."
-msgstr ""
+msgstr "Error: este tema no es válido."
 
 #: application/view/omeka/site-admin/index/theme.phtml:44
 #, php-format
@@ -2820,7 +2820,7 @@ msgstr "Permisos de usuario actualizados exitosamente"
 
 #: application/src/Controller/SiteAdmin/IndexController.php:297
 msgid "Site theme successfully updated"
-msgstr "Tema del sitio actualizada exitosamente"
+msgstr "Tema del sitio actualizado exitosamente"
 
 #: application/src/Controller/SiteAdmin/IndexController.php:348
 msgid "Theme settings successfully updated"
