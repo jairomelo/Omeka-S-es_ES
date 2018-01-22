@@ -343,40 +343,40 @@ msgstr ""
 #: application/src/View/Helper/SearchFilters.php:32
 #: application/view/common/advanced-search/properties.phtml:61
 msgid "is exactly"
-msgstr ""
+msgstr "es igual"
 
 #: application/src/View/Helper/SearchFilters.php:33
 #: application/view/common/advanced-search/properties.phtml:62
 msgid "is not exactly"
-msgstr ""
+msgstr "no es igual"
 
 #: application/src/View/Helper/SearchFilters.php:34
 #: application/view/common/advanced-search/properties.phtml:63
 msgid "contains"
-msgstr ""
+msgstr "contiene"
 
 #: application/src/View/Helper/SearchFilters.php:35
 #: application/view/common/advanced-search/properties.phtml:64
 msgid "does not contain"
-msgstr ""
+msgstr "no contiene"
 
 #: application/src/View/Helper/SearchFilters.php:36
 msgid "has resource"
-msgstr ""
+msgstr "tiene el recurso"
 
 #: application/src/View/Helper/SearchFilters.php:37
 msgid "does not have resource"
-msgstr ""
+msgstr "no tiene el recurso"
 
 #: application/src/View/Helper/SearchFilters.php:38
 #: application/view/common/advanced-search/properties.phtml:65
 msgid "has any value"
-msgstr ""
+msgstr "tiene algún valor"
 
 #: application/src/View/Helper/SearchFilters.php:39
 #: application/view/common/advanced-search/properties.phtml:66
 msgid "has no values"
-msgstr ""
+msgstr "no tiene valores"
 
 #: application/src/View/Helper/SearchFilters.php:47
 msgid "Resource class"
@@ -456,17 +456,17 @@ msgstr ""
 
 #: application/view/common/advanced-search/item-sets.phtml:14
 msgid "Search by item set"
-msgstr ""
+msgstr "Buscar por colección"
 
 #: application/view/common/advanced-search/item-sets.phtml:15
 #: application/view/common/form-row.phtml:11
 #: application/view/omeka/admin/item/sidebar-select.phtml:17
 msgid "Expand"
-msgstr ""
+msgstr "Expandir"
 
 #: application/view/common/advanced-search/item-sets.phtml:17
 msgid "Searches for items that are assigned to any of these item sets."
-msgstr ""
+msgstr "Búsquedas por elementos que están asignados a cualquiera de las siguientes colecciones."
 
 #: application/view/common/advanced-search/item-sets.phtml:27
 #: application/view/common/advanced-search/properties.phtml:69
@@ -474,29 +474,29 @@ msgstr ""
 #: application/view/common/media-field-wrapper.phtml:10
 #: application/view/omeka/admin/item/manage-media.phtml:48
 msgid "Remove value"
-msgstr ""
+msgstr "Borrar valor"
 
 #: application/view/common/advanced-search/item-sets.phtml:30
 #: application/view/omeka/admin/index/browse.phtml:21
 #: application/view/omeka/admin/item-set/browse.phtml:55
 msgid "Add new item set"
-msgstr ""
+msgstr "Añadir nueva colección"
 
 #: application/view/common/advanced-search/properties.phtml:37
 msgid "Search by value"
-msgstr ""
+msgstr "Buscar por valor"
 
 #: application/view/common/advanced-search/properties.phtml:75
 msgid "Add new value"
-msgstr ""
+msgstr "Añadir un nuevo valor"
 
 #: application/view/common/advanced-search/resource-class.phtml:12
 msgid "Search by class"
-msgstr ""
+msgstr "Buscar por clase"
 
 #: application/view/common/advanced-search/site-pool.phtml:11
 msgid "In site pool"
-msgstr ""
+msgstr "En el grupo de sitios"
 
 #: application/view/common/asset-form.phtml:23
 msgid "[No asset selected]"
@@ -504,11 +504,11 @@ msgstr ""
 
 #: application/view/common/asset-form.phtml:29
 msgid "Select"
-msgstr ""
+msgstr "Seleccionar"
 
 #: application/view/common/asset-form.phtml:34
 msgid "Clear"
-msgstr ""
+msgstr "Borrar"
 
 #: application/view/common/attachments-form.phtml:7
 #: application/view/common/attachments-form.phtml:27
@@ -683,15 +683,15 @@ msgstr ""
 
 #: application/view/common/item-set-selector.phtml:6
 msgid "Click on an item set to add it to the edit panel."
-msgstr ""
+msgstr "Clic en una colección para añadirla al panel de edición."
 
 #: application/view/common/item-set-selector.phtml:7
 msgid "Filter item sets"
-msgstr ""
+msgstr "Filtrar colecciones"
 
 #: application/view/common/item-set-selector.phtml:9
 msgid "All item sets"
-msgstr ""
+msgstr "Todas las colecciones"
 
 #: application/view/common/item-set-selector.phtml:16
 #: application/view/omeka/admin/item-set/browse.phtml:86
@@ -705,12 +705,12 @@ msgstr ""
 #: application/view/omeka/admin/resource-template/browse.phtml:61
 #: application/view/omeka/site-admin/index/index.phtml:56
 msgid "[no owner]"
-msgstr ""
+msgstr "[sin propietario]"
 
 #: application/view/common/item-set-selector.phtml:29
 #: application/view/common/property-selector.phtml:32
 msgid "More info"
-msgstr ""
+msgstr "Más información"
 
 #: application/view/common/media-field-wrapper.phtml:6
 #: application/view/omeka/admin/item-set/form.phtml:39
@@ -719,38 +719,38 @@ msgstr ""
 #: application/view/omeka/admin/media/edit.phtml:50
 #: application/view/omeka/site-admin/index/edit.phtml:14
 msgid "Make private"
-msgstr ""
+msgstr "Hacerlo privado"
 
 #: application/view/common/navigation-link-form/browse.phtml:6
 #: application/view/common/navigation-link-form/page.phtml:12
 #: application/view/common/navigation-link-form/url.phtml:6
 msgid "Type"
-msgstr ""
+msgstr "Tipo"
 
 #: application/view/common/navigation-link-form/page.phtml:13
 msgid "Page"
-msgstr ""
+msgstr "Página"
 
 #: application/view/common/navigation-link-form/url.phtml:8
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: application/view/common/pagination.phtml:6
 #: application/view/common/sidebar-pagination.phtml:3
 #, php-format
 msgid "of %s"
-msgstr ""
+msgstr "de %s"
 
 #: application/view/common/pagination.phtml:10
 #: application/view/common/sidebar-pagination.phtml:6
 msgid "Previous"
-msgstr ""
+msgstr "Anterior"
 
 #: application/view/common/pagination.phtml:16
 #: application/view/common/sidebar-pagination.phtml:12
 #: application/view/common/site-page-pagination.phtml:3
 msgid "Next"
-msgstr ""
+msgstr "Siguiente"
 
 #: application/view/common/pagination.phtml:25
 #, php-format
@@ -1558,7 +1558,7 @@ msgstr ""
 
 #: application/view/omeka/admin/item/browse.phtml:206
 msgid "Omeka could not find any items."
-msgstr ""
+msgstr "Omeka no encontró elementos."
 
 #: application/view/omeka/admin/item/manage-item-sets.phtml:29
 #: application/view/omeka/admin/item/manage-item-sets.phtml:52
@@ -2254,64 +2254,64 @@ msgstr ""
 
 #: application/view/omeka/site-admin/index/users.phtml:15
 msgid "User permissions"
-msgstr ""
+msgstr "Permisos de los usuarios"
 
 #: application/view/omeka/site-admin/index/users.phtml:41
 #: application/view/omeka/site-admin/index/users.phtml:112
 msgid "User to be removed"
-msgstr ""
+msgstr "Usuarios a eliminar"
 
 #: application/view/omeka/site-admin/index/users.phtml:71
 msgid "This site has no users. Add users using the interface to the right."
-msgstr ""
+msgstr "Este sitio no tiene usuarios. Añadir usarios usando la interface de la derecha."
 
 #: application/view/omeka/site-admin/index/users.phtml:74
 msgid "Click on a user to add them to the site."
-msgstr ""
+msgstr "Clic en un usuario para añadirlo al sitio."
 
 #: application/view/omeka/site-admin/index/users.phtml:75
 msgid "Filter users"
-msgstr ""
+msgstr "Filtrar usuarios"
 
 #: application/view/omeka/site-admin/index/users.phtml:77
 msgid "All users"
-msgstr ""
+msgstr "Todos los usuarios"
 
 #: application/view/omeka/site-admin/page/attachment-item-options.phtml:16
 msgid "Change item"
-msgstr ""
+msgstr "Cambiar el elemento"
 
 #: application/view/omeka/site-admin/page/attachment-item-options.phtml:58
 msgid "No item selected."
-msgstr ""
+msgstr "Ningún elemento seleccionado."
 
 #: application/view/omeka/site-admin/page/edit.phtml:26
 msgid "Add new block"
-msgstr ""
+msgstr "Añadir un nuevo bloque"
 
 #: application/view/omeka/site-admin/page/edit.phtml:39
 msgid "Caption"
-msgstr ""
+msgstr "Leyenda"
 
 #: application/view/omeka/site-admin/page/edit.phtml:50
 msgid "Apply changes"
-msgstr ""
+msgstr "Aplicar cambios"
 
 #: application/view/omeka/site-admin/page/index.phtml:10
 msgid "Add new page"
-msgstr ""
+msgstr "Añadir página nueva"
 
 #: application/view/omeka/site-admin/page/index.phtml:18
 msgid "Slug"
-msgstr ""
+msgstr "Slug"
 
 #: application/view/omeka/site-admin/page/index.phtml:40
 msgid "Delete page"
-msgstr ""
+msgstr "Borrar página"
 
 #: application/view/omeka/site/index/index.phtml:1
 msgid "This site has no pages."
-msgstr ""
+msgstr "Este sitio no tiene páginas."
 
 #: application/view/omeka/site/item-set/search.phtml:5
 msgid "Advanced item set Search"
@@ -2365,31 +2365,31 @@ msgstr "Información del sitio"
 
 #: application/src/View/Helper/ResourceClassSelect.php:39
 msgid "Select class..."
-msgstr ""
+msgstr "Seleccionar clase..."
 
 #: application/src/View/Helper/SiteSelect.php:39
 msgid "Select site..."
-msgstr ""
+msgstr "Seleccionar sitio..."
 
 #: application/src/View/Helper/PropertySelect.php:39
 msgid "Select property..."
-msgstr ""
+msgstr "Seleccionar propiedad"
 
 #: application/src/View/Helper/ItemSetSelect.php:39
 msgid "Select item set..."
-msgstr ""
+msgstr "Seleccionar colección..."
 
 #: application/src/View/Helper/BlockShowTitleSelect.php:24
 msgid "item title"
-msgstr ""
+msgstr "título del elemento"
 
 #: application/src/View/Helper/BlockShowTitleSelect.php:25
 msgid "media title"
-msgstr ""
+msgstr "título del medio"
 
 #: application/src/View/Helper/BlockShowTitleSelect.php:26
 msgid "no title"
-msgstr ""
+msgstr "sin título"
 
 #: application/src/File/Validator.php:65
 #, php-format
@@ -3420,55 +3420,55 @@ msgstr ""
 
 #: application/src/Api/Representation/JobRepresentation.php:12
 msgid "Starting"
-msgstr ""
+msgstr "Iniciando"
 
 #: application/src/Api/Representation/JobRepresentation.php:13
 msgid "Stopping"
-msgstr ""
+msgstr "Deteniendo"
 
 #: application/src/Api/Representation/JobRepresentation.php:14
 msgid "In Progress"
-msgstr ""
+msgstr "En progreso"
 
 #: application/src/Api/Representation/JobRepresentation.php:15
 msgid "Completed"
-msgstr ""
+msgstr "Completado"
 
 #: application/src/Api/Representation/JobRepresentation.php:16
 msgid "Stopped"
-msgstr ""
+msgstr "Detenido"
 
 #: application/src/Entity/Job.php:23
 msgid "starting"
-msgstr ""
+msgstr "iniciando"
 
 #: application/src/Entity/Job.php:24
 msgid "stopping"
-msgstr ""
+msgstr "deteniendo"
 
 #: application/src/Entity/Job.php:25
 msgid "in_progress"
-msgstr ""
+msgstr "en_progreso"
 
 #: application/src/Entity/Job.php:26
 msgid "completed"
-msgstr ""
+msgstr "completado"
 
 #: application/src/Entity/Job.php:27
 msgid "stopped"
-msgstr ""
+msgstr "detenido"
 
 #: application/src/Entity/Job.php:28
 msgid "error"
-msgstr ""
+msgstr "error"
 
 #: application/src/DataType/Resource/All.php:13
 msgid "All"
-msgstr ""
+msgstr "Todo"
 
 #: application/src/DataType/Resource/AbstractResource.php:16
 msgid "Resource"
-msgstr ""
+msgstr "Recurso"
 
 #: application/src/DataType/Resource/AbstractResource.php:59
 msgid "A value resource cannot be Media."
@@ -3476,11 +3476,11 @@ msgstr ""
 
 #: application/src/DataType/Resource/ItemSet.php:13
 msgid "Item Set"
-msgstr ""
+msgstr "Colección"
 
 #: application/view/common/advanced-search/properties.phtml:57
 msgid "[Any Property]"
-msgstr ""
+msgstr "[Una propiedad]"
 
 #: application/view/omeka/admin/item/sidebar-select.phtml:30
 msgid "Filter by class"
@@ -3836,11 +3836,11 @@ msgstr ""
 
 #. Property label for Dublin Core:created
 msgid "Date Created"
-msgstr ""
+msgstr "Fecha de creación"
 
 #. Property comment for Dublin Core:created
 msgid "Date of creation of the resource."
-msgstr ""
+msgstr "Fecha de creación del recurso."
 
 #. Property label for Dublin Core:valid
 msgid "Date Valid"
